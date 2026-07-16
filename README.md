@@ -15,6 +15,6 @@ I am learning problem-solving and Data Structures & Algorithms by solving beginn
 |--------|----------|----------|
 | Watermelon (4A) | Codeforces | watermelon.py |
 | Team (231A) | Codeforces | team.py |
-
+| Next Round (158A) | codeforces | next_round.py |
 ## Goal
 My goal is to improve my programming skills and prepare for technical interviews and placements.
